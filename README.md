@@ -16,7 +16,7 @@ Well jokes apart, I am a web developer with my **Tech Stack** being
 
 Blogify(Link - https://blogify-bay.vercel.app)|  RTTDA(Link - https://rttda.vercel.app/)
 :-------------------------:|:-------------------------:
-<img width="326" alt="image" src="https://user-images.githubusercontent.com/106673696/222103008-b0534c34-93fa-4a3a-9287-5dfe9a9309ab.png"> | <img width="326" alt="image" src="https://user-images.githubusercontent.com/106673696/222103008-b0534c34-93fa-4a3a-9287-5dfe9a9309ab.png">
+<img width="326" alt="image" src="https://user-images.githubusercontent.com/106673696/222103008-b0534c34-93fa-4a3a-9287-5dfe9a9309ab.png"> | <img width="315" alt="image" src="https://user-images.githubusercontent.com/106673696/222105542-0da5797c-8aeb-40e9-96e0-801bd3184875.png">
 
 ## My Social Links 
 |Site| Link |
