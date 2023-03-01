@@ -1,11 +1,12 @@
-# Hello I Am Ansh 😊✌️
+# Hello, I Am Ansh 😊✌️
 
-I am a **Web Developer**. I proudly call myself a **Full Stack**  or a **MERNext ** Developer** developer because there is a certain ring to it ain't there ? 😂
+I am a **Web Developer** in NEXT.js and React.Js. I proudly call myself a **Full Stack**  or a **MERNext ** Developer** developer because there is a certain ring to it ain't there ? 😂
 
 Well jokes apart, I am a web developer with my **Tech Stack** being 
 - NEXT.js (Front-end and Back-end merger)
 - Firebase🔥(Firestore and Firebase Auth)
 - Tailwind CSS as styling engine
+
 - MongoDB (Database I Use)
 - Express(Server Code)
 - JavaScript(The language I speak 😁, the language I love 💖)
@@ -19,6 +20,7 @@ Blogify(Link - https://blogify-bay.vercel.app)|  RTTDA(Link - https://rttda.verc
 ## My Social Links 
 |Site| Link |
 |--|--|
+|Email|anshpradhan03@gmail.com|
 | LinkedIn    | `https://www.linkedin.com/in/ansh-pradhan-2a963818a/` |
 |GitHub |`https://github.com/code-ansh-007`|
 |Personal Portfolio|`I am currently working on this one so stick around till then 😊✌️`
