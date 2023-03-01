@@ -12,12 +12,11 @@ Well jokes apart, I am a web developer with my **Tech Stack** being
 
 ## My Recent Projects, Check it out -
 
-#### Blogify(Link - https://blogify-bay.vercel.app/yourBlogs)
-<img width="326" alt="image" src="https://user-images.githubusercontent.com/106673696/222103008-b0534c34-93fa-4a3a-9287-5dfe9a9309ab.png">
+#### Blogify(Link - https://blogify-bay.vercel.app)
 
-Solarized dark             |  Solarized Ocean
+Blogify(Link - https://blogify-bay.vercel.app)|  RTTDA(Link - https://rttda.vercel.app/)
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+<img width="326" alt="image" src="https://user-images.githubusercontent.com/106673696/222103008-b0534c34-93fa-4a3a-9287-5dfe9a9309ab.png"> | <img width="326" alt="image" src="https://user-images.githubusercontent.com/106673696/222103008-b0534c34-93fa-4a3a-9287-5dfe9a9309ab.png">
 
 ## My Social Links 
 |Site| Link |
