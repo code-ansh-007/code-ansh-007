@@ -12,7 +12,7 @@ Well jokes apart, I am a web developer with my **Tech Stack** being
 
 ## My Recent Projects, Check it out -
 
-#### Blogify
+#### Blogify(Link - https://blogify-bay.vercel.app/yourBlogs) #### RTTDA (Link - )
 <img width="326" alt="image" src="https://user-images.githubusercontent.com/106673696/222103008-b0534c34-93fa-4a3a-9287-5dfe9a9309ab.png">
 
 ## My Social Links 
