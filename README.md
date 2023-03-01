@@ -4,6 +4,8 @@ I am a **Web Developer**. I proudly call myself a **Full Stack**  or a **MERNext
 
 Well jokes apart, I am a web developer with my **Tech Stack** being 
 - NEXT.js (Front-end and Back-end merger)
+- Firebase🔥(Firestore and Firebase Auth)
+- Tailwind CSS as styling engine
 - MongoDB (Database I Use)
 - Express(Server Code)
 - JavaScript(The language I speak 😁, the language I love 💖)
