@@ -22,7 +22,7 @@ Blogify(Link - https://blogify-bay.vercel.app)|  RTTDA(Link - https://rttda.verc
 |--|--|
 |Email|anshpradhan03@gmail.com|
 | LinkedIn    | https://www.linkedin.com/in/ansh-pradhan-2a963818a/ |
-|GitHub |https://github.com/code-ansh-007|
+|Showwcase |https://www.showwcase.com/code-ansh-007|
 |Personal Portfolio|`I am currently working on this one so stick around till then 😊✌️`
 
 ## Let's Work Together 
