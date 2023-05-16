@@ -27,7 +27,7 @@ I am a **Web Developer** in NEXT.js and React.Js. I proudly call myself a **Full
 |Email|anshpradhan03@gmail.com|
 | LinkedIn    | https://www.linkedin.com/in/ansh-pradhan-2a963818a/ |
 |Showwcase |https://www.showwcase.com/code-ansh-007|
-|Personal Portfolio|`I am currently working on this one so stick around till then 😊✌️`
+|Personal Portfolio| www.anshpradhan.com
 
 ## Let's Work Together 
 
