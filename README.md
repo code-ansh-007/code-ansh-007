@@ -6,6 +6,8 @@ I am a **Web Developer** in NEXT.js and React.Js. I proudly call myself a **Full
 <img src="https://user-images.githubusercontent.com/106673696/222108786-b80b8303-e032-4db3-a756-ae879fd8f857.gif" width="350" alt="coding dude" align="right">
 
   Well jokes apart, I am a web developer with my **Tech Stack** being 
+- React Native
+- Appwrite Open Source Cloud and server
 - NEXT.js (Front-end and Back-end merger)        
 - Firebase🔥(Firestore and Firebase Auth)                                     
 - Tailwind CSS as styling engine
