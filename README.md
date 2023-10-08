@@ -1,7 +1,7 @@
 
 # Hello, I Am Ansh 😊✌️
 
-<span style="background-color: yellow;">Visit my portfoilio site - www.anshpradhan.com</span>
+Visit my portfoilio site - www.anshpradhan.com 🔥
 
 I am a **Web Developer** in NEXT.js and React.Js. I proudly call myself a **Full Stack**  or a **MERNext ** Developer** developer because there is a certain ring to it ain't there ? 😂 And guess what? I'm not just limited to web development, I'm also an **App Developer in React Native**! 
 
