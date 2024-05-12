@@ -6,7 +6,6 @@
 I am a **Web Developer** in NEXT.js and React.Js. I proudly call myself a **Full Stack**  or a **MERNext ** Developer** developer because there is a certain ring to it ain't there ? 😂 And guess what? I'm not just limited to web development, I'm also an **App Developer in React Native**! 
 
 <img src="https://user-images.githubusercontent.com/106673696/222108786-b80b8303-e032-4db3-a756-ae879fd8f857.gif" width="350" alt="coding dude" align="right">
-<img src="https://pin.it/5U5oNEA3L" align="right">
 
   Well jokes apart, I am a web developer with my **Tech Stack** being 
 - React Native ❤️‍🔥
